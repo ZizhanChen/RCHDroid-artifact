@@ -19,7 +19,7 @@ RCHDroid works on Android platforms. We have tested RCHDroid’s correctness and
 5. Installation}
 Users can follow the following steps to build the image from the source code.
 - Download the Android 14 source code.
-- Replace parts of the code of Android 10 with the code inside ./source-code to build RCHDroid. README inside ./source-code presents which parts should be replaced.
+- Replace parts of the code of Android 14 with the code inside ./source-code to build RCHDroid. README inside ./source-code presents which parts should be replaced.
 - Compile the image.
 - When the image is ready, users can flash the image to the development board.
 
@@ -52,4 +52,5 @@ Users can reproduce the runtime change handling time with different numbers of v
 -Users can print the related logs by the command through ADB: \verb+logcat | grep "zizhan"+. The runtime change handling time is the time between the \verb|configuration change| \verb|happened| and the \verb|activity resumed|.
 
 7. Evaluation and Expected Results
+
 We expect the reproduced results for Figure 7, Figure 8, Figure 9, Figure 10, and Figure 14 to match the results in the paper.
