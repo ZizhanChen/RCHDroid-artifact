@@ -1,0 +1,10 @@
+Replace the frameworks/base/core/java/android/app/Activity.java with the Activity.java.
+Replace the frameworks/base/core/java/android/app/ActivityThread.java with the ActivityThread.java
+Replace the frameworks/base/core/java/android/content/Intent.java with the Intent.java 
+Replace the frameworks/base/core/java/android/view/View.java with the View.java
+Replace the frameworks/base/core/java/android/view/ViewGroup.java with the ViewGroup.java
+Replace the frameworks/base/services/core/java/com/android/server/wm/ActivityStarter.java with the ActivityStarter.java 
+Replace the frameworks/base/services/core/java/com/android/server/wm/Task.java with the Task.java
+Replace the frameworks/base/services/core/java/com/android/server/wm/TaskFragment.java with the TaskFragment.java 
+Replace the frameworks/base/services/core/java/com/android/server/wm/ActivityRecord.java with the ActivityRecord.java
+Replace the frameworks/base/services/core/java/com/android/server/wm/RootWindowContainer.java with the RootWindowContainer.java

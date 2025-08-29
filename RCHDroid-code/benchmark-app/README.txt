@@ -1,0 +1,1 @@
+This is the benchmark app for RCHDroid. The app can be loaded through Android Studio.
